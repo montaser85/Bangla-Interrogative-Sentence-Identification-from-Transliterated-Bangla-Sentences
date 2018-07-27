@@ -1,0 +1,10 @@
+The transliterated sentences are classified into 2 classes, interrogative and non interrogative.
+Two approaches are used for this purpose:
+1. Supervised Learning Approach: SVM, KNN, MLP, logistic Regression
+2. Deep Learning Approach: Implying A CNN model
+
+***File Overview:
+1.CNN : This folder contains the CNN model code and datasets
+2. Dataset: Contains the data.
+3. Report: Contains the project report.
+4. Supervised Learning: Contains the code for supervised learning approach. 
