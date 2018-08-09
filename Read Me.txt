@@ -8,3 +8,10 @@ Two approaches are used for this purpose:
 2. Data: Contains the data.
 3. Report: Contains the project report.
 4. Supervised Learning: Contains the code for supervised learning approach. 
+
+
+
+***Requirements for CNN:
+Python 3
+Tensorflow > 0.12
+Numpy
